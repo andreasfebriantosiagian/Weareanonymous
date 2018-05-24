@@ -1,0 +1,2 @@
+# Weareanonymous
+Hack everything
